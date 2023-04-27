@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.devjnptw.com.ico",
     "slug": "jackson-api-dev",
     "status": "up",
-    "uptime": "23.29%",
-    "uptimeDay": "23.29%",
-    "uptimeWeek": "23.29%",
-    "uptimeMonth": "23.29%",
-    "uptimeYear": "23.29%",
+    "uptime": "43.70%",
+    "uptimeDay": "43.70%",
+    "uptimeWeek": "43.70%",
+    "uptimeMonth": "43.70%",
+    "uptimeYear": "43.70%",
     "time": 207,
     "timeDay": 207,
     "timeWeek": 207,
@@ -18,23 +18,5 @@
     "dailyMinutesDown": {
       "2023-04-27": 13
     }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
   }
 ]
