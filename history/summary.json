@@ -4,19 +4,19 @@
     "url": "https://api.devjnptw.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.devjnptw.com.ico",
     "slug": "jackson-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-04-27": 6
+      "2023-04-27": 10
     }
   },
   {
