@@ -5,6 +5,8 @@ repo: nw-status-page # The name of this repository
 sites:
   - name: Jackson API (dev)
     url: https://api.devjnptw.com
+    expectedStatusCodes:
+      - 404
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
