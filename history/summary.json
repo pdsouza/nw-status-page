@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackson-instant-pay-api-prod",
     "status": "up",
-    "uptime": "9.98%",
-    "uptimeDay": "9.98%",
-    "uptimeWeek": "9.98%",
-    "uptimeMonth": "9.98%",
-    "uptimeYear": "9.98%",
+    "uptime": "0.74%",
+    "uptimeDay": "0.74%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "0.74%",
+    "uptimeYear": "0.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-03": 0
+      "2023-05-03": 10
     }
   }
 ]
