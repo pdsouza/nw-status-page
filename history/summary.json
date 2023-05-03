@@ -52,5 +52,25 @@
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Jackson InstantPay API (prod)",
+    "url": "$JACKSON_INSTANTPAY_API_PROD_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "jackson-instant-pay-api-prod",
+    "status": "up",
+    "uptime": "13.06%",
+    "uptimeDay": "13.06%",
+    "uptimeWeek": "13.06%",
+    "uptimeMonth": "13.06%",
+    "uptimeYear": "13.06%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   }
 ]
