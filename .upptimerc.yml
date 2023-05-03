@@ -11,6 +11,14 @@ sites:
     url: https://api.devjnptw.com
     expectedStatusCodes:
       - 404
+  - name: Jackson InstantPay API (prod)
+    url: $JACKSON_INSTANTPAY_API_PROD_URL
+    method: POST
+    headers:
+      - "X-API-KEY: $JACKSON_API_PROD_TOKEN"
+      - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
