@@ -40,18 +40,20 @@
     "url": "https://api.devjnptw.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.devjnptw.com.ico",
     "slug": "jackson-api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 7900,
+    "timeDay": 115,
     "timeWeek": 2139,
     "timeMonth": 653,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-21": 0
+    }
   },
   {
     "name": "Jackson InstantPay API (prod)",
