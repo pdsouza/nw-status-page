@@ -1,7 +1,7 @@
 url: https://api.unit.co/
-status: down
-code: 503
-responseTime: 41
-lastUpdated: 2023-09-03T07:19:09.697Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2023-09-03T07:40:32.674Z
 startTime: 2023-04-27T15:50:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
