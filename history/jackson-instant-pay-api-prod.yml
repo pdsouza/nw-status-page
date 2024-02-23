@@ -1,7 +1,7 @@
 url: $JACKSON_INSTANTPAY_API_PROD_URL
 status: up
 code: 500
-responseTime: 488
-lastUpdated: 2024-02-22T23:04:49.413Z
+responseTime: 752
+lastUpdated: 2024-02-23T23:04:04.299Z
 startTime: 2023-05-03T14:01:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
