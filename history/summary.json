@@ -22,18 +22,19 @@
     "url": "https://api.unit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/api.unit.co.ico",
     "slug": "unit-api-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 59,
-    "timeWeek": 127,
-    "timeMonth": 137,
+    "timeDay": 64,
+    "timeWeek": 120,
+    "timeMonth": 135,
     "timeYear": 145,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2023-09-03": 21
     }
   },
@@ -72,12 +73,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.92%",
     "time": 623,
     "timeDay": 382,
     "timeWeek": 454,
     "timeMonth": 524,
-    "timeYear": 623,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2023-12-21": 197,
       "2023-06-08": 82
