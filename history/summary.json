@@ -43,19 +43,19 @@
     "url": "https://api.devjnptw.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.devjnptw.com.ico",
     "slug": "jackson-api-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 260,
-    "timeDay": 7887,
-    "timeWeek": 2108,
-    "timeMonth": 638,
+    "timeDay": 5360,
+    "timeWeek": 1908,
+    "timeMonth": 629,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-08-22": 0,
+      "2024-08-22": 7,
       "2023-12-18": 109
     }
   }
